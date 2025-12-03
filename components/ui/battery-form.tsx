@@ -210,7 +210,7 @@ export default function BatteryForm() {
           <div className="flex items-center justify-between">
             <div>
               <div className="text-sm text-muted-foreground">
-                Stav zdraví (SoH)
+                Health state (SoH)
               </div>
               <div className="text-2xl font-bold">{soh}%</div>
             </div>
